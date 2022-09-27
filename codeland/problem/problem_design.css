@@ -1,0 +1,13 @@
+.name{
+	text-align: center;
+    font-size: 50px;
+	
+}
+.limit{	text-align: center;	}
+.problem_head a{text-decoration: none;}
+.problem_head a:hover{text-decoration: underline;}
+.problem_head a:active {color:#57282E;}
+.input p{
+	font-size: 30px;
+}
+.input-sample{font-size: 25px;}

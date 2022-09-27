@@ -1,0 +1,26 @@
+
+.partition .left{
+	float: left;
+	width: 60%;
+}
+.partition .right{
+	float: right;
+	width: 40%;
+}
+.marge div {
+	display: inline-block;
+	font-size: 22px;
+}
+.left div.email{
+	font-size: 20px;
+	color: gray;
+}
+.submision a{
+	font-size: 20;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+.submision a:hover{
+	text-decoration: underline;
+}

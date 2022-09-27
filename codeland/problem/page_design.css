@@ -1,0 +1,38 @@
+.tag{
+	float: left;
+	width: 318px;
+
+	height: 35px;
+}
+.name{
+	float: right;
+	width: 677px;
+	height: 35px;
+}
+tr{
+	width: 1000px;
+	height: 37px;
+}
+table, th, td {
+  border: 1px solid gray;
+}
+
+td ul li a{
+	padding: 0px;
+	margin: 0px 25px;
+	text-decoration: none;
+	color: 
+
+}
+
+td ul{
+	list-style-type: none;
+	
+}
+a:active {
+  color: #57282E;
+}
+a:visited {
+  color: #57282E;
+}
+
